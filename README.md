@@ -22,8 +22,8 @@ TodoList/
 │   ├── list.lua           # List rendering and scrolling
 │   └── input.lua          # Input box for adding items
 ├── tests/
-│   ├── data_test.lua      # Tests for data.lua (3 tests)
-│   ├── storage_test.lua   # Tests for storage.lua (3 tests)
+│   ├── data_test.lua      # Tests for data.lua
+│   ├── storage_test.lua   # Tests for storage.lua
 │   └── run_all_tests.lua  # Test runner
 ├── main.lua               # Entry point, wires everything together
 └── TodoList.toc           # WoW addon config
