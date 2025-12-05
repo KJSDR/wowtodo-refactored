@@ -1,6 +1,3 @@
--- core/data.lua
--- Data operations for todo items
-
 local Data = {}
 
 function Data.addItem(items, text)

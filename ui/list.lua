@@ -1,6 +1,3 @@
--- ui/list.lua
--- List display and scrolling
-
 local List = {}
 
 function List.createScrollFrame(parent)

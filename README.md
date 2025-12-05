@@ -31,7 +31,6 @@ TodoList/
 
 Run all tests:
 ```bash
-cd TodoList
 lua tests/run_all_tests.lua
 ```
 

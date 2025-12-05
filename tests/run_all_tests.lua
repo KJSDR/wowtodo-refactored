@@ -1,6 +1,3 @@
--- tests/run_all_tests.lua
--- Run all tests
-
 print("=========================================")
 print("Running TodoList Test Suite")
 print("=========================================\n")

@@ -1,6 +1,3 @@
--- core/storage.lua
--- SavedVariables persistence
-
 local Storage = {}
 
 function Storage.initialize()

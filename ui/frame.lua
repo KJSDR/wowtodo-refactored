@@ -1,6 +1,3 @@
--- ui/frame.lua
--- Main frame setup
-
 local Frame = {}
 
 function Frame.create()

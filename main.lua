@@ -1,6 +1,3 @@
--- main.lua
--- Entry point - wires everything together
-
 local Storage = require("core.storage")
 local Data = require("core.data")
 local Frame = require("ui.frame")

@@ -1,6 +1,3 @@
--- tests/storage_test.lua
--- Tests for core/storage.lua
-
 local Storage = require("core.storage")
 
 local function test_initialize_empty()

@@ -1,6 +1,3 @@
--- ui/input.lua
--- Input box for adding new items
-
 local Input = {}
 
 function Input.create(parent, onSubmit)

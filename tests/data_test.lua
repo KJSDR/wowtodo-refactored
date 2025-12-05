@@ -1,6 +1,3 @@
--- tests/data_test.lua
--- Tests for core/data.lua
-
 local Data = require("core.data")
 
 local function test_add_item()
