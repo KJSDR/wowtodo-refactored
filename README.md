@@ -27,7 +27,7 @@ TodoList/
 └── TodoList.toc           # WoW addon config
 ```
 
-
+### Tests
 
 Run all tests:
 ```bash
