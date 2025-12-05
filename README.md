@@ -1,4 +1,4 @@
-Refactored version of the original todolist.lua addon, split into organized modules for better maintainability and testing.
+### Refactored version of the original todolist.lua addon, split into organized modules for better maintainability and testing.
 
 ### Project Structure
 
