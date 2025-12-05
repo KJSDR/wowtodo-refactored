@@ -5,7 +5,9 @@ function Data.addItem(items, text)
 end
 
 function Data.removeItem(items, index)
-    table.remove(items, index)
+    if index >= 1 and index <= #items then
+        table.remove(items, index)
+    end
 end
 
 function Data.setChecked(items, index, checked)
