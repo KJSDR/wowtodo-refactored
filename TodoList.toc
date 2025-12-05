@@ -1,0 +1,13 @@
+## Interface: 110002
+## Title: Todo List
+## Notes: A simple todo list addon
+## Author: Your Name
+## Version: 2.0
+## SavedVariables: todolistDB
+
+core\data.lua
+core\storage.lua
+ui\frame.lua
+ui\list.lua
+ui\input.lua
+main.lua
