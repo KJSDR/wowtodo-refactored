@@ -1,8 +1,6 @@
-# TodoList - Refactored WoW Addon
-
 Refactored version of the original todolist.lua addon, split into organized modules for better maintainability and testing.
 
-## 📁 Project Structure
+### Project Structure
 
 ### Before
 ```
