@@ -1,5 +1,7 @@
 ### Refactored version of the original todolist.lua addon, split into organized modules for better maintainability and testing.
 
+---
+
 ### Project Structure
 
 ### Before
@@ -27,6 +29,8 @@ TodoList/
 └── TodoList.toc           # WoW addon config
 ```
 
+---
+
 ### Tests
 
 Run all tests:
@@ -39,6 +43,8 @@ Run individual tests:
 lua tests/data_test.lua
 lua tests/storage_test.lua
 ```
+
+---
 
 ### Future Additions
 
@@ -76,7 +82,3 @@ Publish addon to reach wider audience and demonstrate real-world deployment.
 - **Goals**: 1,000+ downloads, user feedback integration, version management
 - **Benefits**: Portfolio piece with social proof, real user testing, maintainable release cycle
 - **Platform**: https://www.curseforge.com/wow/addons
-
----
-
-*Note: These features are planned enhancements. Current version focuses on core todo functionality with clean architecture and comprehensive test coverage.*
