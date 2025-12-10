@@ -7,8 +7,8 @@
 ### Before
 ```
 TodoList/
-├── main.lua               # Entry point, wires everything together
-└── TodoList.toc           # WoW addon config
+├── todolist.lua               # Entry point, wires everything together
+└── todoist.toc           # WoW addon config
 ```
 
 ### After
