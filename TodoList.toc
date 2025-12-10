@@ -1,7 +1,7 @@
 ## Interface: 110002
 ## Title: Todo List
 ## Notes: A simple todo list addon
-## Author: Your Name
+## Author: LeTemplier
 ## Version: 2.0
 ## SavedVariables: todolistDB
 
